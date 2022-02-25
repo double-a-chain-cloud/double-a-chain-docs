@@ -80,7 +80,7 @@ To show full detail help info of all flags, type geth help or geth -h
 
 ```
 
-if you need to use it as archive node, add：
+if you need to use it as archive node, add:
 ```shell
 --syncmode full \
 --gcmode archive \ 
@@ -115,12 +115,12 @@ LimitNOFILE=65536
 
 
 ## On-chain Interaction
-Double-A Chain is compatible with Ethereum's ecosystem support all Ethereum's RPC  API and DK。
+Double-A Chain is compatible with Ethereum's ecosystem support all Ethereum's RPC  API and DK.
 
 ### RPC
 [RPC Method List](https://eth.wiki/json-rpc/api)
 
-Example：
+Example:
 ```shell
 curl -s -H 'content-type:application/json' -d '{"jsonrpc":"2.0","method":"web3_clientVersion","params":[],"id":67}' http://localhost:8545
 ```
@@ -390,7 +390,7 @@ wss://ws-mainnet. Double-A Chain.com
 https:// Double-A Chain.com
 ```
 #### P2P Nodes
-Allow P2P port（default 32668） udp/tcp
+Allow P2P port(default 32668) udp/tcp
 > The following nodes are default config for bootstrap node in code [https://github.com/double-a-chain-cloud/double-a-chain/blob/master/params/bootnodes.go](https://github.com/double-a-chain-cloud/double-a-chain/blob/master/params/bootnodes.go)
 ```
 enode://7bed18c87054f807bc9096501bc78f737363f357af831791bab07c4fa6c5a1a67cdcf0a097dc2cc918262ef04fb1c05c26026df5c11a6a56666f9b1fb4072210@18.178.30.66:32668
@@ -401,7 +401,7 @@ enode://f88bb1f5d0e42cf75ec879212b7c8477d605315d5296fba02bc4600eccf73c64427de465
 
 ```
 
-Put these into static node：：
+Put these into static node:
 ```shell
 [Node.P2P]
 
@@ -464,9 +464,9 @@ function transferFrom(address from, address to, uint tokens) public returns (boo
 }
 ```
 
-EIP Reference：
+EIP Reference:
 [eip-20](https://eips.ethereum.org/EIPS/eip-20)
-Implementation reference：
+Implementation reference:
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20)
 
 
@@ -604,7 +604,7 @@ pip install web3
 ## Gas fee
 
 Gas price suggestions based on txpool
-3 levels： slow, medium, fast；
+3 levels: slow, medium, fast；
 ```shell
 curl https://tc. www.acuteangle.com//price/prediction
 ```
@@ -622,20 +622,20 @@ curl https://tc. www.acuteangle.com//price/prediction
 ## Txpool
 
 To expedite pending transactions.
-### 1）Inadequate nonce：
+### 1）Inadequate nonce:
 - Try to reset to an appropriate value
 - If there are multiple pending transactions, please wait for earlier transactions to confirm first.
 - Metatask--setting-advanced--reset account
 - Metatask--setting--advanced--Customize transaction nonce: resend transaction with pending tx's nonce and higher gas price.
-### 2）Low gas fee：
+### 2）Low gas fee:
 - Set to a higher gas fee and resend
 
 
 ## Common Issues
 
 ## Delay on Metamask
-Slow response when inputting transfer amount, fetching gas price, etc. It is a chrome's known issue according to the following issue：[https://github.com/MetaMask/metamask-extension/issues/10202](https://github.com/MetaMask/metamask-extension/issues/10202)
-To resolve this issue：
+Slow response when inputting transfer amount, fetching gas price, etc. It is a chrome's known issue according to the following issue:[https://github.com/MetaMask/metamask-extension/issues/10202](https://github.com/MetaMask/metamask-extension/issues/10202)
+To resolve this issue:
 1）Use Expand view
 2）Move the window to primary monitor if using multiple monitors
 3）Use other explorers

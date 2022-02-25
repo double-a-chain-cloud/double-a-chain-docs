@@ -46,7 +46,7 @@ interface IToken is IARC20{
 
 ## Application for token-peg
 
-Steps are：
+Steps are:
 1. Put in an application to bd@acuteangle.com
 2. Deploy your smart contract
 3. Test
@@ -60,7 +60,7 @@ The Double-A Chain encourages community developers to provide more decentralized
 This document describes the option for project parties to map Tokens from the source chain to Double-A Chain on their own.
 
 The project owner self maintains the total balance of Token on the multi-chain, including Double-A Chain, and endorses the credibility of Token.
-The main processes include：
+The main processes include:
 1）Initial Preparation
 2）Source Chain -> Double-A Chain
 3）Double-A Chain -> Source Chain
@@ -69,13 +69,13 @@ The main processes include：
 Source Chain: The source chain where the Token is located (e.g. Ethereum)
 Src_Token: Token on the source chain, possibly a contract, or a native Token
 Locked address or contract: the address used to lock the Token
-AAC： Token on Double-A Chain
+AAC: Token on Double-A Chain
 ### Initial Preparation
 1. Deploy the lock address or contract on the source chain Src_Lock_Addr
-2. Deploy Token on Double-A Chain： AAC
+2. Deploy Token on Double-A Chain: AAC
 3. Deploy a lock address or contract on Double-A Chain Double-A Chain Lock_Addr
-   If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet)。
-   If you need contracts with mint/to burn, you can refer to [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/)。
+   If you need multiple sign contracts, you can refer to [gnosis/MultiSigWallet](https://github.com/gnosis/MultiSigWallet).
+   If you need contracts with mint/to burn, you can refer to [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/).
    The project needs to publicize the above information and invite the community to supervise it. The project also needs to monitor the total coins on both chains.
 #### Source Chain-> Double-A Chain
 1. Source chain locking Src_Token

@@ -1,7 +1,7 @@
 # Disclaimer
-To our users：
+To our users:
 
-Double-A Chain (AAC) is a decentralized public chain. Developers worldwide can launch applications on Double-A Chain, and every user of our chain can read, send, and trade on it. Due to the decentralized nature, please allow us to remind you of some risks of third-party DApps as follows:：
+Double-A Chain (AAC) is a decentralized public chain. Developers worldwide can launch applications on Double-A Chain, and every user of our chain can read, send, and trade on it. Due to the decentralized nature, please allow us to remind you of some risks of third-party DApps as follows:
 
 1. Using the DApps on the Double-A Chain, whether you participate through any trading platform or wallet, is all your personal choice, and we do not have any recommendation for this;
 2. We are not responsible for the review of any third-party DApps, nor do we make any promises or guarantees for the validity, accuracy, correctness, reliability, quality, stability, completeness and timeliness of the technology and information involved in its services;

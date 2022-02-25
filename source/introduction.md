@@ -3,7 +3,7 @@
 ## Introduction to Double-A Chain
 Double-A Chain is a next-gen chain featuring decentralization, high transaction speed, and low gas fees. It's compatible with smart contracts and supports high-performance transactions. The token of the Double-A Chain is AAC, which adopts the APoS consensus mechanism. Double-A Chain will empower the Metaverse and Web3.0 ecosystem by establishing underlying high-performance infrastructure and advancing the rapid implementation and sustainable development of application scenarios such as Gamefi and NFT.
 
-## Declaration
+## Manifesto
 To assist developers to participate in every construction stage of Metaverse and Web 3.0.
 
 ## Vision
@@ -15,12 +15,14 @@ Technological innovation is the ongoing mission of the blockchain industry, and 
 - Gas fee：3gwei
 
 ## Consensus Mechanism
-Double-A Chain adopts the APoS consensus mechanism combining PoA+PoS, jointly governed by verification nodes and voters. As a result, it has the characteristics of democracy, high efficiency, low gas fee, low latency, and high concurrency.
+Double-A Chain adopts the APoS consensus mechanism combining PoA+DPoS, jointly governed by verification nodes and voters. As a result, it has the characteristics of democracy, high efficiency, low gas fee, low latency, and high concurrency.
 
 ## Economic Model
 1. The total supply of AAC is 12 billion. After that, an additional 5% (600 million) will be supplied every year on top of the total amount of 12 billion coins, with no limitation. AAC's additional supply mechanism adopts a hard fork; that is, at a certain point (specified block height), 600 million coins are added to the staking contract. To separate a hard fork requires more than half of the nodes to agree. 
 2. Token Allocation:
-   a. Initial offering（12 billion）： Huobi current holder-about 5.45 billion。OKEx current holder-about 2 billion. Other exchanges and token holders of the Ethereum chain will supply about 4.55 billion 
+
+   a. Initial offering(12 billion): Huobi current holder-about 5.45 billion.OKEx current holder-about 2 billion. Other exchanges and token holders of the Ethereum chain will supply about 4.55 billion 
+   
    b. All AACs supplied every year are set up as a reward pool for nodes.
      - 49% of the prize pool will be distributed to node administrator according to the proportion of votes obtained by validators;
      - 40% of the prize pool will be distributed to users who voted according to the proportion of votes obtained by validators.

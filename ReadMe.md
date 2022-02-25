@@ -24,7 +24,7 @@ To spin up a local instance, see below:
    ```shell
    python3 -m venv v-env
    source v-env/bin/activate
-   pip install sphinx sphinx-autobuild sphinx_rtd_theme
+   pip install sphinx sphinx-autobuild sphinx_rtd_theme  recommonmark
    pip install sphinx_book_theme
    ```
 3. make the `Double-A Chain docs`

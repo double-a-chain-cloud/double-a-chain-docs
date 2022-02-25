@@ -1,7 +1,7 @@
 # Consensus
 
 ## Summary
-Double-A Chain adopts the APoS consensus mechanism combining PoA+PoS, jointly governed by verification nodes and voters. As a result, it has the characteristics of democracy, efficiency, low transaction cost, low transaction delay and high transaction concurrency.
+Double-A Chain adopts the APoS consensus mechanism combining PoA+DPoS, jointly governed by verification nodes and voters. As a result, it has the characteristics of democracy, efficiency, low transaction cost, low transaction delay and high transaction concurrency.
 To become a validator, you need to stake 10 Million of AAC. After the votes of other token holders, each node candidate must have at least 100 users' votes (i.e. 100 voting addresses) to be eligible to become a candidate node. In addition, the node must be ranked between 22 and 32 to become candidate nodes.
 
 ## Glossary
