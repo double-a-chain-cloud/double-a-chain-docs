@@ -11,7 +11,7 @@ Welcome to Double-A Chain Docs!
    :caption: Contents:
 
    Introduction <introduction.md>
-   Networks <networks.md>
+   network Details <networks.md>
    Wallet <wallet.md>
    Bridge <bridge.md>
    Consensus <consensus.md>
