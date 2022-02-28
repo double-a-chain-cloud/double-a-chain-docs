@@ -1,22 +1,7 @@
 # Wallet
 ## Supported Wallets：
 Double-A Chain supports all wallets with custom networks feather such as Metamask, imToken, TokenPocket, and Coinbase Wallet.
-Please use the link information below：
-### mainnet
-```
-// TODO
-chainid: 572845
-rpc: http://3.129.253.183:10212
-scan: http://18.188.173.250
-```
-### testnet 
-```
-// TODO
-Chainid: 256
-Rpc: https://http-testnet.acuteangle.com
-Scan: https://testnet.Double-A Chain.com
-```
-
+Please use the link information in [Networks](./networks.md)：
 ## Metamask
 [download url：https://metamask.io/](https://metamask.io/)
 1. Step 1：
