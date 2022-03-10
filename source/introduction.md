@@ -58,9 +58,9 @@ Double-A Chain foundation will open up ecological resources to high-potential de
 
 ### Participate in Test Environment of Double-A Chain
 - [Official website](https://www.acuteangle.com)
-- [Testnet](https://www.acuteangle.com) //TODO
-- [Testnet Explorer](https://www.acuteangle.com)//TODO
-- [Testnet Faucet](https://www.acuteangle.com)//TODO
+- [Testnet](https://rpc-testnet.acuteangle.com)
+- [Testnet Explorer](https://scan-testnet.acuteangle.com)
+- [Testnet Faucet](https://scan-testnet.acuteangle.com/faucet)
 
 ## Our Communities
 - [Twitter](https://twitter.com/DoubleA_chain)

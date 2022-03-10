@@ -3,15 +3,14 @@
 ## Network
 ### mainnet
 ```
-// TODO
-chainid: 572845
-rpc: http://3.129.253.183:10212
-scan: http://18.188.173.250
+chainid: 512
+rpc: https://rpc.acuteangle.com
+scan: https://scan.acuteangle.com  
 ```
 ### testnet 
 ```
-// TODO
-Chainid: 256
-Rpc: https://http-testnet.acuteangle.com
-Scan: https://testnet.Double-A Chain.com
+Chainid: 513
+Rpc: https://rpc-testnet.acuteangle.com
+Scan: https://scan-testnet.acuteangle.com 
+Faucet: https://scan-testnet.acuteangle.com/faucet
 ```
