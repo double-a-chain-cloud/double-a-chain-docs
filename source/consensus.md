@@ -6,7 +6,7 @@ To become a validator, you need to stake 100 Million of AAC. After the votes of 
 
 ## Glossary
 Validators are responsible for packaging out blocks for on-chain transactions. There are a total of 21 of them.
-Candidates, Stake at least 10 million of AAC， have at least 100 users' votes and are ranked between 22-32.
+Candidates, Stake at least 100 million of AAC， have at least 100 users' votes and are ranked between 22-32.
 Epoch, Time interval in blocks, currently 1epoch = 200block on Double-A Chain. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
 ## System Contract
