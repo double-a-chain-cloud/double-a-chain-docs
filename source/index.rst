@@ -10,15 +10,15 @@ Welcome to Double-A Chain Docs!
    :maxdepth: 3
    :caption: Contents:
 
-   Introduction <01-introduction.md>
-   Network Details <02-networks.md>
-   Wallet <03-wallet.md>
-   Bridge <04-bridge.md>
-   Consensus <05-consensus.md>
-   Genesis <06-genesis.md>
-   Developers <07-developers.md>
-   Announcement <08-announcement.md>
-   Disclaimer <09-disclaimer.md>
+   Introduction <introduction.md>
+   Network Details <networks.md>
+   Wallet <wallet.md>
+   Bridge <bridge.md>
+   Consensus <consensus.md>
+   Genesis <genesis.md>
+   Developers <developers.md>
+   Announcement <announcement.md>
+   Disclaimer <disclaimer.md>
 
 
 
