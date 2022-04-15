@@ -17,8 +17,9 @@ Welcome to Double-A Chain Docs!
    Consensus <05-consensus.md>
    Genesis <06-genesis.md>
    Developers <07-developers.md>
-   Disclaimer <08-disclaimer.md>
-   Announcement <09-announcement.md>
+   Announcement <08-announcement.md>
+   Disclaimer <09-disclaimer.md>
+
 
 
 
